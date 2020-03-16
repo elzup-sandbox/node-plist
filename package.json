@@ -1,0 +1,12 @@
+{
+  "name": "node-plist",
+  "version": "1.0.0",
+  "description": "read plist by plist.js",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bplist": "^0.0.4",
+    "bplist-parser": "^0.2.0",
+    "plist": "^3.0.1"
+  }
+}
