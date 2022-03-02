@@ -7,6 +7,6 @@
   "dependencies": {
     "bplist": "^0.0.4",
     "bplist-parser": "^0.2.0",
-    "plist": "^3.0.1"
+    "plist": "^3.0.4"
   }
 }
